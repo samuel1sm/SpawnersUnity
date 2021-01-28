@@ -1,0 +1,74 @@
+{
+    "name": "PlayerController",
+    "maps": [
+        {
+            "name": "Terrain",
+            "id": "d99d61f7-57bd-42df-8a9c-7cf88a54793e",
+            "actions": [
+                {
+                    "name": "Move",
+                    "type": "Button",
+                    "id": "e378a813-aaff-4592-9cde-952c89e4e513",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                },
+                {
+                    "name": "Jump",
+                    "type": "Button",
+                    "id": "9c8e04ff-73bc-41dd-a18d-c91f32e3e210",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": ""
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "1D Axis",
+                    "id": "df8b0a56-cde3-46ff-b6b8-444533d10cf9",
+                    "path": "1DAxis",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": true,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "negative",
+                    "id": "5ecde753-d58d-4751-bf43-50ed3d3480b3",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "positive",
+                    "id": "02e49453-4255-40f3-bfd1-64b8aba15049",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move",
+                    "isComposite": false,
+                    "isPartOfComposite": true
+                },
+                {
+                    "name": "",
+                    "id": "d0b472df-b6ec-4d83-b0f1-195f130cc4c2",
+                    "path": "<Keyboard>/space",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Jump",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

@@ -1,0 +1,842 @@
+fileFormatVersion: 2
+guid: 0d79aaf4d6c28864f8525e52fb04050f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8578021242791487037
+    second: KnightJumpAndFall_strip_0
+  - first:
+      213: 5763698196090617619
+    second: KnightJumpAndFall_strip_1
+  - first:
+      213: 7222265470398896454
+    second: KnightJumpAndFall_strip_2
+  - first:
+      213: 2782040434613174239
+    second: KnightJumpAndFall_strip_3
+  - first:
+      213: -8624138533016559469
+    second: KnightJumpAndFall_strip_4
+  - first:
+      213: -6967627593999736655
+    second: KnightJumpAndFall_strip_5
+  - first:
+      213: -543855458038479150
+    second: KnightJumpAndFall_strip_6
+  - first:
+      213: -6884654463306909029
+    second: KnightJumpAndFall_strip_7
+  - first:
+      213: -7069685694978229401
+    second: KnightJumpAndFall_strip_8
+  - first:
+      213: -3304323103893280884
+    second: KnightJumpAndFall_strip_9
+  - first:
+      213: 7262340935278602900
+    second: KnightJumpAndFall_strip_10
+  - first:
+      213: -7575015248238843423
+    second: KnightJumpAndFall_strip_11
+  - first:
+      213: 104828630507371262
+    second: KnightJumpAndFall_strip_12
+  - first:
+      213: 5990898812437551516
+    second: KnightJumpAndFall_strip_13
+  - first:
+      213: -447977040078875375
+    second: KnightJumpAndFall_strip_14
+  - first:
+      213: 4813794257332174994
+    second: KnightJumpAndFall_strip_15
+  - first:
+      213: 5071155955710075512
+    second: KnightJumpAndFall_strip_16
+  - first:
+      213: 3899939101052779396
+    second: KnightJumpAndFall_strip_17
+  - first:
+      213: 7241225437758008760
+    second: KnightJumpAndFall_strip_18
+  - first:
+      213: -3215396821394870579
+    second: KnightJumpAndFall_strip_19
+  - first:
+      213: -626668223906017397
+    second: KnightJumpAndFall_strip_20
+  - first:
+      213: -8586445893384198133
+    second: KnightJumpAndFall_strip_21
+  - first:
+      213: -2109872311301423366
+    second: KnightJumpAndFall_strip_22
+  - first:
+      213: -5483778573874513136
+    second: KnightJumpAndFall_strip_23
+  - first:
+      213: 3464618059277134525
+    second: KnightJumpAndFall_strip_24
+  - first:
+      213: -3418151834726693192
+    second: KnightJumpAndFall_strip_25
+  - first:
+      213: 3101038491313329923
+    second: KnightJumpAndFall_strip_26
+  - first:
+      213: -8007359012144000524
+    second: KnightJumpAndFall_strip_27
+  - first:
+      213: -3097285716839778533
+    second: KnightJumpAndFall_strip_28
+  - first:
+      213: 5274103803126959313
+    second: KnightJumpAndFall_strip_29
+  - first:
+      213: 715004360383118099
+    second: KnightJumpAndFall_strip_30
+  - first:
+      213: -4968403682263519933
+    second: KnightJumpAndFall_strip_31
+  - first:
+      213: -4704185040858415642
+    second: KnightJumpAndFall_strip_32
+  - first:
+      213: -4418835346182562256
+    second: KnightJumpAndFall_strip_33
+  - first:
+      213: -1267774345511756810
+    second: KnightJumpAndFall_strip_34
+  - first:
+      213: 8814819090734465607
+    second: KnightJumpAndFall_strip_35
+  - first:
+      213: -6041178688293181719
+    second: KnightJumpAndFall_strip_36
+  - first:
+      213: 1437382933312901940
+    second: KnightJumpAndFall_strip_37
+  - first:
+      213: 4559351391223504094
+    second: KnightJumpAndFall_strip_38
+  - first:
+      213: 6478335102589961924
+    second: KnightJumpAndFall_strip_39
+  - first:
+      213: 669063811872137024
+    second: KnightJumpAndFall_strip_40
+  - first:
+      213: -4980329502834029794
+    second: KnightJumpAndFall_strip_41
+  - first:
+      213: -9060987435051192160
+    second: KnightJumpAndFall_strip_42
+  - first:
+      213: -4752884411831343128
+    second: KnightJumpAndFall_strip_43
+  - first:
+      213: -4592382842026874175
+    second: KnightJumpAndFall_strip_44
+  - first:
+      213: -3366690802256291912
+    second: KnightJumpAndFall_strip_45
+  - first:
+      213: -7347040818929016570
+    second: KnightJumpAndFall_strip_46
+  - first:
+      213: 547974073815313224
+    second: KnightJumpAndFall_strip_47
+  - first:
+      213: 5379901540017615724
+    second: KnightJumpAndFall_strip_48
+  - first:
+      213: -4347270201432021493
+    second: KnightJumpAndFall_strip_49
+  - first:
+      213: -7231365862892927193
+    second: KnightJumpAndFall_strip_50
+  - first:
+      213: -7432310069379300495
+    second: KnightJumpAndFall_strip_51
+  - first:
+      213: -1144496228107314514
+    second: KnightJumpAndFall_strip_52
+  - first:
+      213: -3296267701565013553
+    second: KnightJumpAndFall_strip_53
+  - first:
+      213: -6674340730864288848
+    second: KnightJumpAndFall_strip_54
+  - first:
+      213: 7664103495988442094
+    second: KnightJumpAndFall_strip_55
+  - first:
+      213: 670307837664381711
+    second: KnightJumpAndFall_strip_56
+  - first:
+      213: 9086385720901376954
+    second: KnightJumpAndFall_strip_57
+  - first:
+      213: -6996766093261544164
+    second: KnightJumpAndFall_strip_58
+  - first:
+      213: 4523366345312467863
+    second: KnightJumpAndFall_strip_59
+  - first:
+      213: 456929382145066246
+    second: KnightJumpAndFall_strip_60
+  - first:
+      213: 799488972524131021
+    second: KnightJumpAndFall_strip_61
+  - first:
+      213: -8094212022620555946
+    second: KnightJumpAndFall_strip_62
+  - first:
+      213: 6408723131222167614
+    second: KnightJumpAndFall_strip_63
+  - first:
+      213: -815756103088185405
+    second: KnightJumpAndFall_strip_64
+  - first:
+      213: 5103857828497352848
+    second: KnightJumpAndFall_strip_65
+  - first:
+      213: -6812591324719872133
+    second: KnightJumpAndFall_strip_66
+  - first:
+      213: -1769673945440589364
+    second: KnightJumpAndFall_strip_67
+  - first:
+      213: 3486550019545167135
+    second: KnightJumpAndFall_strip_68
+  - first:
+      213: -3424012502464949799
+    second: KnightJumpAndFall_strip_69
+  - first:
+      213: 4145919603349211945
+    second: KnightJumpAndFall_strip_70
+  - first:
+      213: 3030870312886515885
+    second: KnightJumpAndFall_strip_71
+  - first:
+      213: 3843987089333019365
+    second: KnightJumpAndFall_strip_72
+  - first:
+      213: -4096615148614719499
+    second: KnightJumpAndFall_strip_73
+  - first:
+      213: 4995445720740570197
+    second: KnightJumpAndFall_strip_74
+  - first:
+      213: -3105402884248638147
+    second: KnightJumpAndFall_strip_75
+  - first:
+      213: -3502895204183959966
+    second: KnightJumpAndFall_strip_76
+  - first:
+      213: 5166992885466502853
+    second: KnightJumpAndFall_strip_77
+  - first:
+      213: 1241150171875620971
+    second: KnightJumpAndFall_strip_78
+  - first:
+      213: -2286373139714899950
+    second: KnightJumpAndFall_strip_79
+  - first:
+      213: 25922716914181228
+    second: KnightJumpAndFall_strip_80
+  - first:
+      213: -2686261476948695742
+    second: KnightJumpAndFall_strip_81
+  - first:
+      213: -3893995851374773467
+    second: KnightJumpAndFall_strip_82
+  - first:
+      213: 5141349917179390760
+    second: KnightJumpAndFall_strip_83
+  - first:
+      213: 1560298863748219556
+    second: KnightJumpAndFall_strip_84
+  - first:
+      213: -5304142575142983076
+    second: KnightJumpAndFall_strip_85
+  - first:
+      213: 8066600232901468615
+    second: KnightJumpAndFall_strip_86
+  - first:
+      213: 3694141645637811711
+    second: KnightJumpAndFall_strip_87
+  - first:
+      213: -1868963287751009127
+    second: KnightJumpAndFall_strip_88
+  - first:
+      213: 2690058753321329374
+    second: KnightJumpAndFall_strip_89
+  - first:
+      213: -1578163964447791087
+    second: KnightJumpAndFall_strip_90
+  - first:
+      213: 3194154602229217133
+    second: KnightJumpAndFall_strip_91
+  - first:
+      213: -3986749964233758058
+    second: KnightJumpAndFall_strip_92
+  - first:
+      213: -5913276494698134801
+    second: KnightJumpAndFall_strip_93
+  - first:
+      213: -5164777046671137702
+    second: KnightJumpAndFall_strip_94
+  - first:
+      213: -7450600778421106287
+    second: KnightJumpAndFall_strip_95
+  - first:
+      213: -9047159356595731116
+    second: KnightJumpAndFall_strip_96
+  - first:
+      213: 7831965627442344385
+    second: KnightJumpAndFall_strip_97
+  - first:
+      213: 3902038019943881833
+    second: KnightJumpAndFall_strip_98
+  - first:
+      213: -7144585109236875653
+    second: KnightJumpAndFall_strip_99
+  - first:
+      213: -8203163072678205665
+    second: KnightJumpAndFall_strip_100
+  - first:
+      213: 3226065787297994747
+    second: KnightJumpAndFall_strip_101
+  - first:
+      213: 178137301699472436
+    second: KnightJumpAndFall_strip_102
+  - first:
+      213: 1490806854538158831
+    second: KnightJumpAndFall_strip_103
+  - first:
+      213: -8051705930595450955
+    second: KnightJumpAndFall_strip_104
+  - first:
+      213: 1238168645329362248
+    second: KnightJumpAndFall_strip_105
+  - first:
+      213: -7433964014273576009
+    second: KnightJumpAndFall_strip_106
+  - first:
+      213: 4835608132102709695
+    second: KnightJumpAndFall_strip_107
+  - first:
+      213: -3379759645585154162
+    second: KnightJumpAndFall_strip_108
+  - first:
+      213: 6669888687524091222
+    second: KnightJumpAndFall_strip_109
+  - first:
+      213: -4867453845897488123
+    second: KnightJumpAndFall_strip_110
+  - first:
+      213: 2413921502370524590
+    second: KnightJumpAndFall_strip_111
+  - first:
+      213: -8290101984468806739
+    second: KnightJumpAndFall_strip_112
+  - first:
+      213: -5846265361454692408
+    second: KnightJumpAndFall_strip_113
+  - first:
+      213: -3298240606142042084
+    second: KnightJumpAndFall_strip_114
+  - first:
+      213: 6485556902150314243
+    second: KnightJumpAndFall_strip_115
+  - first:
+      213: -1469773591754924190
+    second: KnightJumpAndFall_strip_116
+  - first:
+      213: -2315118767047928780
+    second: KnightJumpAndFall_strip_117
+  - first:
+      213: 3910685278169811429
+    second: KnightJumpAndFall_strip_118
+  - first:
+      213: -1061763051259855796
+    second: KnightJumpAndFall_strip_119
+  - first:
+      213: 5087810218285442692
+    second: KnightJumpAndFall_strip_120
+  - first:
+      213: -522967042234922937
+    second: KnightJumpAndFall_strip_121
+  - first:
+      213: 4263600653688138969
+    second: KnightJumpAndFall_strip_122
+  - first:
+      213: -5637148314002637272
+    second: KnightJumpAndFall_strip_123
+  - first:
+      213: 5931704305036368312
+    second: KnightJumpAndFall_strip_124
+  - first:
+      213: 464523596081587672
+    second: KnightJumpAndFall_strip_125
+  - first:
+      213: -1479876531134866563
+    second: KnightJumpAndFall_strip_126
+  - first:
+      213: -8266962037096733524
+    second: KnightJumpAndFall_strip_127
+  - first:
+      213: -8113125291151410081
+    second: KnightJumpAndFall_strip_128
+  - first:
+      213: -6952878855477324348
+    second: KnightJumpAndFall_strip_129
+  - first:
+      213: -1691939542860154619
+    second: KnightJumpAndFall_strip_130
+  - first:
+      213: 5304574302572583426
+    second: KnightJumpAndFall_strip_131
+  - first:
+      213: -3948983322216444518
+    second: KnightJumpAndFall_strip_132
+  - first:
+      213: -561199482410221685
+    second: KnightJumpAndFall_strip_133
+  - first:
+      213: -6323982313483425316
+    second: KnightJumpAndFall_strip_134
+  - first:
+      213: 2030792266144070923
+    second: KnightJumpAndFall_strip_135
+  - first:
+      213: 2581142097828308187
+    second: KnightJumpAndFall_strip_136
+  - first:
+      213: -174639339445611106
+    second: KnightJumpAndFall_strip_137
+  - first:
+      213: -2957309112937789731
+    second: KnightJumpAndFall_strip_138
+  - first:
+      213: 2077319454917495105
+    second: KnightJumpAndFall_strip_139
+  - first:
+      213: 671578237961023193
+    second: KnightJumpAndFall_strip_140
+  - first:
+      213: -8864080000598709151
+    second: KnightJumpAndFall_strip_141
+  - first:
+      213: 2229269387589169270
+    second: KnightJumpAndFall_strip_142
+  - first:
+      213: -7649086951753569113
+    second: KnightJumpAndFall_strip_143
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KnightJumpAndFall_strip_0
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c998a3c02fb4f880800000000000000
+      internalID: -8578021242791487037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightJumpAndFall_strip_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdf34ef090bcb9620800000000000000
+      internalID: 2782040434613174239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightJumpAndFall_strip_5
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 19
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b0af6c8e930e4f90800000000000000
+      internalID: -6967627593999736655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightJumpAndFall_strip_8
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 22
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76b7925315e63ed90800000000000000
+      internalID: -7069685694978229401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightJumpAndFall_strip_11
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 25
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e96e8014c320e690800000000000000
+      internalID: -7575015248238843423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightJumpAndFall_strip_15
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 290891a5f580ec240800000000000000
+      internalID: 4813794257332174994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightJumpAndFall_strip_18
+      rect:
+        serializedVersion: 2
+        x: 944
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8bda6148b200e7460800000000000000
+      internalID: 7241225437758008760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightJumpAndFall_strip_23
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 32
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01bbf4df074b5e3b0800000000000000
+      internalID: -5483778573874513136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightJumpAndFall_strip_27
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 28
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f1522c376520e090800000000000000
+      internalID: -8007359012144000524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightJumpAndFall_strip_31
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 25
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34da0f9bc2fac0bb0800000000000000
+      internalID: -4968403682263519933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightJumpAndFall_strip_35
+      rect:
+        serializedVersion: 2
+        x: 1696
+        y: 19
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7424f869247845a70800000000000000
+      internalID: 8814819090734465607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightJumpAndFall_strip_37
+      rect:
+        serializedVersion: 2
+        x: 1839
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 433135a892c92f310800000000000000
+      internalID: 1437382933312901940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightJumpAndFall_strip_40
+      rect:
+        serializedVersion: 2
+        x: 1983
+        y: 20
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f15b6fdfdf84900800000000000000
+      internalID: 669063811872137024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightJumpAndFall_strip_60
+      rect:
+        serializedVersion: 2
+        x: 1553
+        y: 19
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60502362ad6575600800000000000000
+      internalID: 456929382145066246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

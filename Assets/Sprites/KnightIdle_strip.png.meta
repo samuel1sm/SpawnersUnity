@@ -1,0 +1,926 @@
+fileFormatVersion: 2
+guid: 3e26e07f06ddfac42a64eb352557271b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -25577143173194025
+    second: KnightIdle_strip_0
+  - first:
+      213: -2830317669443243523
+    second: KnightIdle_strip_1
+  - first:
+      213: -2905779199702964734
+    second: KnightIdle_strip_2
+  - first:
+      213: 7086472609803815521
+    second: KnightIdle_strip_3
+  - first:
+      213: -6450144874162922066
+    second: KnightIdle_strip_4
+  - first:
+      213: 4252343045892945820
+    second: KnightIdle_strip_5
+  - first:
+      213: 5003391269423097539
+    second: KnightIdle_strip_6
+  - first:
+      213: -6550743182011881254
+    second: KnightIdle_strip_7
+  - first:
+      213: -2536543516889644097
+    second: KnightIdle_strip_8
+  - first:
+      213: -2575462999857381363
+    second: KnightIdle_strip_9
+  - first:
+      213: -605134003171289755
+    second: KnightIdle_strip_10
+  - first:
+      213: 4247555138541123685
+    second: KnightIdle_strip_11
+  - first:
+      213: 8357812331261381347
+    second: KnightIdle_strip_12
+  - first:
+      213: 2586152345095952807
+    second: KnightIdle_strip_13
+  - first:
+      213: -8879545375063948355
+    second: KnightIdle_strip_14
+  - first:
+      213: -290307221074233241
+    second: KnightIdle_strip_15
+  - first:
+      213: -5794327794117347888
+    second: KnightIdle_strip_16
+  - first:
+      213: -6148950383523659440
+    second: KnightIdle_strip_17
+  - first:
+      213: -6323601519018719120
+    second: KnightIdle_strip_18
+  - first:
+      213: 8197180478490745088
+    second: KnightIdle_strip_19
+  - first:
+      213: -7917241070802071955
+    second: KnightIdle_strip_20
+  - first:
+      213: 5150218475418814281
+    second: KnightIdle_strip_21
+  - first:
+      213: 7948946208723191627
+    second: KnightIdle_strip_22
+  - first:
+      213: -5706439280022238213
+    second: KnightIdle_strip_23
+  - first:
+      213: -405117572052850939
+    second: KnightIdle_strip_24
+  - first:
+      213: -22960917127913737
+    second: KnightIdle_strip_25
+  - first:
+      213: 6320573543185555119
+    second: KnightIdle_strip_26
+  - first:
+      213: 8614450016638500669
+    second: KnightIdle_strip_27
+  - first:
+      213: 2223771138420735025
+    second: KnightIdle_strip_28
+  - first:
+      213: -4299360436010577405
+    second: KnightIdle_strip_29
+  - first:
+      213: -3908529779515534008
+    second: KnightIdle_strip_30
+  - first:
+      213: -5876418619560917972
+    second: KnightIdle_strip_31
+  - first:
+      213: 653324308701395254
+    second: KnightIdle_strip_32
+  - first:
+      213: -6029648687774796650
+    second: KnightIdle_strip_33
+  - first:
+      213: 2397680401528786084
+    second: KnightIdle_strip_34
+  - first:
+      213: 6825709970690351129
+    second: KnightIdle_strip_35
+  - first:
+      213: 378659228504013078
+    second: KnightIdle_strip_36
+  - first:
+      213: -8698243323427400350
+    second: KnightIdle_strip_37
+  - first:
+      213: 5956657649219345612
+    second: KnightIdle_strip_38
+  - first:
+      213: -4781177333779519413
+    second: KnightIdle_strip_39
+  - first:
+      213: -4037898369028017728
+    second: KnightIdle_strip_40
+  - first:
+      213: -3161432416739836257
+    second: KnightIdle_strip_41
+  - first:
+      213: 5671328223096308358
+    second: KnightIdle_strip_42
+  - first:
+      213: 9112405698144414584
+    second: KnightIdle_strip_43
+  - first:
+      213: 5392394512816882657
+    second: KnightIdle_strip_44
+  - first:
+      213: 4235100712019940647
+    second: KnightIdle_strip_45
+  - first:
+      213: 4039345111386028985
+    second: KnightIdle_strip_46
+  - first:
+      213: -8671331653574961880
+    second: KnightIdle_strip_47
+  - first:
+      213: 5732313440950900360
+    second: KnightIdle_strip_48
+  - first:
+      213: 6021690932816817802
+    second: KnightIdle_strip_49
+  - first:
+      213: 2909111224336639148
+    second: KnightIdle_strip_50
+  - first:
+      213: 2442753767008546600
+    second: KnightIdle_strip_51
+  - first:
+      213: 7755802153071390386
+    second: KnightIdle_strip_52
+  - first:
+      213: -5516592312276981305
+    second: KnightIdle_strip_53
+  - first:
+      213: 5259174083777949803
+    second: KnightIdle_strip_54
+  - first:
+      213: 7585469190913757793
+    second: KnightIdle_strip_55
+  - first:
+      213: -6819303100425248151
+    second: KnightIdle_strip_56
+  - first:
+      213: 3897888599917572845
+    second: KnightIdle_strip_57
+  - first:
+      213: -7073726134152612737
+    second: KnightIdle_strip_58
+  - first:
+      213: 1580456326309748132
+    second: KnightIdle_strip_59
+  - first:
+      213: -3193987859487820854
+    second: KnightIdle_strip_60
+  - first:
+      213: 706523476385341820
+    second: KnightIdle_strip_61
+  - first:
+      213: -7564935318045237726
+    second: KnightIdle_strip_62
+  - first:
+      213: -7313239973703660
+    second: KnightIdle_strip_63
+  - first:
+      213: 7805762242638147037
+    second: KnightIdle_strip_64
+  - first:
+      213: -602420266622422149
+    second: KnightIdle_strip_65
+  - first:
+      213: -1053799472420650253
+    second: KnightIdle_strip_66
+  - first:
+      213: -7206683745150941874
+    second: KnightIdle_strip_67
+  - first:
+      213: 3510699245998929363
+    second: KnightIdle_strip_68
+  - first:
+      213: -4125836093350631679
+    second: KnightIdle_strip_69
+  - first:
+      213: 967737297394061479
+    second: KnightIdle_strip_70
+  - first:
+      213: -4859841259696877166
+    second: KnightIdle_strip_71
+  - first:
+      213: -3815416648965963965
+    second: KnightIdle_strip_72
+  - first:
+      213: -1870211972620571330
+    second: KnightIdle_strip_73
+  - first:
+      213: 7963849170271151166
+    second: KnightIdle_strip_74
+  - first:
+      213: -4700335559656059657
+    second: KnightIdle_strip_75
+  - first:
+      213: 8800021812885196238
+    second: KnightIdle_strip_76
+  - first:
+      213: 9175115841288963596
+    second: KnightIdle_strip_77
+  - first:
+      213: 3236900290113954662
+    second: KnightIdle_strip_78
+  - first:
+      213: 608972860462024249
+    second: KnightIdle_strip_79
+  - first:
+      213: -7846974944372175872
+    second: KnightIdle_strip_80
+  - first:
+      213: 6337204837852629149
+    second: KnightIdle_strip_81
+  - first:
+      213: 6002751442890068521
+    second: KnightIdle_strip_82
+  - first:
+      213: -1557544538290279553
+    second: KnightIdle_strip_83
+  - first:
+      213: 3513964823688801830
+    second: KnightIdle_strip_84
+  - first:
+      213: -6465066744506115217
+    second: KnightIdle_strip_85
+  - first:
+      213: -7365492630463485102
+    second: KnightIdle_strip_86
+  - first:
+      213: -4080562124492695701
+    second: KnightIdle_strip_87
+  - first:
+      213: 6059333831101351363
+    second: KnightIdle_strip_88
+  - first:
+      213: 2984734872686003289
+    second: KnightIdle_strip_89
+  - first:
+      213: -2910504982724837928
+    second: KnightIdle_strip_90
+  - first:
+      213: 6710629644293455517
+    second: KnightIdle_strip_91
+  - first:
+      213: -5618620682914659760
+    second: KnightIdle_strip_92
+  - first:
+      213: -3742718608432857602
+    second: KnightIdle_strip_93
+  - first:
+      213: -542834188438212195
+    second: KnightIdle_strip_94
+  - first:
+      213: -7304700227052261105
+    second: KnightIdle_strip_95
+  - first:
+      213: -7079282201396880215
+    second: KnightIdle_strip_96
+  - first:
+      213: -4925164769980802543
+    second: KnightIdle_strip_97
+  - first:
+      213: -3080701579082548582
+    second: KnightIdle_strip_98
+  - first:
+      213: 884328212125659604
+    second: KnightIdle_strip_99
+  - first:
+      213: 1710026441564059475
+    second: KnightIdle_strip_100
+  - first:
+      213: 6765655090543896366
+    second: KnightIdle_strip_101
+  - first:
+      213: 152617656675470803
+    second: KnightIdle_strip_102
+  - first:
+      213: -6450013691532642279
+    second: KnightIdle_strip_103
+  - first:
+      213: -3593832802570080841
+    second: KnightIdle_strip_104
+  - first:
+      213: -4147681135040678003
+    second: KnightIdle_strip_105
+  - first:
+      213: -1831554508272473494
+    second: KnightIdle_strip_106
+  - first:
+      213: -4283248062445340719
+    second: KnightIdle_strip_107
+  - first:
+      213: -1003676649500327296
+    second: KnightIdle_strip_108
+  - first:
+      213: 502903571949723636
+    second: KnightIdle_strip_109
+  - first:
+      213: 1574073861273695306
+    second: KnightIdle_strip_110
+  - first:
+      213: 4514100978530741365
+    second: KnightIdle_strip_111
+  - first:
+      213: 3875141214138982294
+    second: KnightIdle_strip_112
+  - first:
+      213: 4212529296598871182
+    second: KnightIdle_strip_113
+  - first:
+      213: -6490759477262203200
+    second: KnightIdle_strip_114
+  - first:
+      213: -3958646487677686415
+    second: KnightIdle_strip_115
+  - first:
+      213: 6020282198283085432
+    second: KnightIdle_strip_116
+  - first:
+      213: 993709772391668949
+    second: KnightIdle_strip_117
+  - first:
+      213: -6012172533616724785
+    second: KnightIdle_strip_118
+  - first:
+      213: -1015931038653721111
+    second: KnightIdle_strip_119
+  - first:
+      213: -3560291049729848061
+    second: KnightIdle_strip_120
+  - first:
+      213: 7401453269446168453
+    second: KnightIdle_strip_121
+  - first:
+      213: 1495045246516372662
+    second: KnightIdle_strip_122
+  - first:
+      213: 2410245920801845777
+    second: KnightIdle_strip_123
+  - first:
+      213: 7432515279346472959
+    second: KnightIdle_strip_124
+  - first:
+      213: -5890065186229511437
+    second: KnightIdle_strip_125
+  - first:
+      213: -1523142238471316441
+    second: KnightIdle_strip_126
+  - first:
+      213: 4494900457488173012
+    second: KnightIdle_strip_127
+  - first:
+      213: -2343705327624626297
+    second: KnightIdle_strip_128
+  - first:
+      213: 1865799715730602894
+    second: KnightIdle_strip_129
+  - first:
+      213: 1427885392997000318
+    second: KnightIdle_strip_130
+  - first:
+      213: -2282990713185809219
+    second: KnightIdle_strip_131
+  - first:
+      213: 3268255038938073560
+    second: KnightIdle_strip_132
+  - first:
+      213: -2891817077214575144
+    second: KnightIdle_strip_133
+  - first:
+      213: 3265713418787187670
+    second: KnightIdle_strip_134
+  - first:
+      213: -3274305044711825588
+    second: KnightIdle_strip_135
+  - first:
+      213: 2894076704313766231
+    second: KnightIdle_strip_136
+  - first:
+      213: 5817159028993767408
+    second: KnightIdle_strip_137
+  - first:
+      213: -5496370497617746030
+    second: KnightIdle_strip_138
+  - first:
+      213: 1323206353614191186
+    second: KnightIdle_strip_139
+  - first:
+      213: 2396308212140921183
+    second: KnightIdle_strip_140
+  - first:
+      213: -1722379372723994159
+    second: KnightIdle_strip_141
+  - first:
+      213: -4044123229781092583
+    second: KnightIdle_strip_142
+  - first:
+      213: 7267799373125570647
+    second: KnightIdle_strip_143
+  - first:
+      213: -4760721722765519280
+    second: KnightIdle_strip_144
+  - first:
+      213: 6174443435043005153
+    second: KnightIdle_strip_145
+  - first:
+      213: 2532714159703625403
+    second: KnightIdle_strip_146
+  - first:
+      213: 3827090000141022402
+    second: KnightIdle_strip_147
+  - first:
+      213: -4279540832428048622
+    second: KnightIdle_strip_148
+  - first:
+      213: 5213485491172037968
+    second: KnightIdle_strip_0
+  - first:
+      213: -2525201842258868424
+    second: KnightIdle_strip_1
+  - first:
+      213: 1620520154871967648
+    second: KnightIdle_strip_2
+  - first:
+      213: 3197949462513140027
+    second: KnightIdle_strip_3
+  - first:
+      213: 4995619764826612500
+    second: KnightIdle_strip_4
+  - first:
+      213: -4379367904513933216
+    second: KnightIdle_strip_5
+  - first:
+      213: 1354565613689201140
+    second: KnightIdle_strip_6
+  - first:
+      213: 2774729233860393578
+    second: KnightIdle_strip_7
+  - first:
+      213: 689799777632781935
+    second: KnightIdle_strip_8
+  - first:
+      213: 8285859459346060495
+    second: KnightIdle_strip_9
+  - first:
+      213: 1249366561796672346
+    second: KnightIdle_strip_10
+  - first:
+      213: 5555064446045125569
+    second: KnightIdle_strip_11
+  - first:
+      213: -7591848801796703417
+    second: KnightIdle_strip_12
+  - first:
+      213: 6950288784081421239
+    second: KnightIdle_strip_13
+  - first:
+      213: -7913156252571169646
+    second: KnightIdle_strip_14
+  - first:
+      213: 3452290954720652202
+    second: KnightIdle_strip_15
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 2
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KnightIdle_strip_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05556f69e650a5840800000000000000
+      internalID: 5213485491172037968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightIdle_strip_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8378ff5bd4ea4fcd0800000000000000
+      internalID: -2525201842258868424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightIdle_strip_2
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0af2186be7e3d7610800000000000000
+      internalID: 1620520154871967648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightIdle_strip_3
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b314fbab716616c20800000000000000
+      internalID: 3197949462513140027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightIdle_strip_4
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 413296b45b1045540800000000000000
+      internalID: 4995619764826612500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightIdle_strip_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06043bef71c5933c0800000000000000
+      internalID: -4379367904513933216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightIdle_strip_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f167e4bf326cc210800000000000000
+      internalID: 1354565613689201140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightIdle_strip_7
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6af32c7981d18620800000000000000
+      internalID: 2774729233860393578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightIdle_strip_9
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc4d12527494df270800000000000000
+      internalID: 8285859459346060495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightIdle_strip_10
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5b442eb444a65110800000000000000
+      internalID: 1249366561796672346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightIdle_strip_11
+      rect:
+        serializedVersion: 2
+        x: 1056
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1cbfbe28ead871d40800000000000000
+      internalID: 5555064446045125569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightIdle_strip_12
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 74bbe64fcb554a690800000000000000
+      internalID: -7591848801796703417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightIdle_strip_13
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b30e8d23d2647060800000000000000
+      internalID: 6950288784081421239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightIdle_strip_8
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6602f73e39a29900800000000000000
+      internalID: 689799777632781935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KnightIdle_strip_14
+      rect:
+        serializedVersion: 2
+        x: 1325
+        y: 0
+        width: 32
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c85516052de2290800000000000000
+      internalID: -7913156252571169646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
